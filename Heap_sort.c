@@ -1,7 +1,4 @@
 // -Heap Sort
-// -Busca Sequencial e binária ()
-// -Quick Sort 
-// -Inserction Sort  
 //Função Do Heap Sort: 
 #include<stdio.h>
 #include<time.h>
